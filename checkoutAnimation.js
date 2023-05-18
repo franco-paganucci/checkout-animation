@@ -1,2 +1,2 @@
-let animationContainer = document.getElementById("checkout-animation");
-animationContainer.innerHTML = 'PRUEVA INNER HTML'
+//let animationContainer = document.getElementById("checkout-animation");
+//animationContainer.innerHTML = 'PRUEVA INNER HTML'
